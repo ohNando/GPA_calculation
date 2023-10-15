@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//made by ohNando
 int main()
 {
 	string name_surname;
